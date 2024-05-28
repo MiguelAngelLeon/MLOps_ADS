@@ -1,0 +1,15 @@
+artifact_uri: file:///a:/projects/unicauca/maestria/semestre3/ADS/MLOps/ADS%20MLops/mlruns/456926303630442138/aabbc7f356f64945be21f57a2944a346/artifacts
+end_time: 1716917913831
+entry_point_name: ''
+experiment_id: '456926303630442138'
+lifecycle_stage: active
+run_id: aabbc7f356f64945be21f57a2944a346
+run_name: example_1
+run_uuid: aabbc7f356f64945be21f57a2944a346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716917910934
+status: 3
+tags: []
+user_id: rafab
